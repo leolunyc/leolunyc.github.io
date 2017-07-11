@@ -1853,6 +1853,7 @@
 /* Icon */
 
 	.icon {
+		color: white;
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
