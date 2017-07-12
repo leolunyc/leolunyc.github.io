@@ -1454,6 +1454,13 @@
 		transition: border-bottom-color 0.2s ease-in-out, color 0.2s ease-in-out;
 	}
 
+	a:hover {
+		border-bottom: 1px solid;
+	  color: black ;
+	  background-color: black ;
+	}
+
+
 
 	strong, b {
 		color: #ffffff;
