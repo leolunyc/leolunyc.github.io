@@ -1433,7 +1433,7 @@
 		-moz-osx-font-smoothing: grayscale;
 		-webkit-font-smoothing: antialiased;
 		font-family: 'Open Sans', sans-serif;
-		font-size: 1.15em;
+		font-size: 1.1em;
 		font-weight: normal;
 		line-height: 1.65;
 	}
@@ -1441,7 +1441,7 @@
 		@media screen and (max-width: 1280px) {
 
 			body, input, select, textarea {
-				font-size: 1.15em;
+				font-size: 1.1em;
 			}
 
 		}
