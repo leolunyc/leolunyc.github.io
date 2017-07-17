@@ -1432,8 +1432,8 @@
 		color: rgba(255, 255, 255, 0.65);
 		-moz-osx-font-smoothing: grayscale;
 		-webkit-font-smoothing: antialiased;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 1em;
+		font-family: 'Open Sans', sans-serif;
+		font-size: 1.15em;
 		font-weight: normal;
 		line-height: 1.65;
 	}
@@ -1441,7 +1441,7 @@
 		@media screen and (max-width: 1280px) {
 
 			body, input, select, textarea {
-				font-size: 1em;
+				font-size: 1.15em;
 			}
 
 		}
