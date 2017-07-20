@@ -1472,7 +1472,11 @@
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		display: block;
+		-webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
