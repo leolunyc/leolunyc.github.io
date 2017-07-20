@@ -47,6 +47,8 @@
 
 	body {
 		-webkit-text-size-adjust: none;
+		display: block;
+		margin: 8px;
 	}
 
 /* Box Model */
