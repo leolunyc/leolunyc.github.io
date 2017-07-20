@@ -2096,7 +2096,7 @@
 
 					ul.actions li {
 						padding: 0 0 0 0;
-						display: inline;
+						display: block;
 						text-align: center;
 						width: 100%;
 					}
