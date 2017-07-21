@@ -1521,6 +1521,7 @@
 
 	h2 {
 		font-size: 1.2em;
+		font-weight: bold;
 	}
 
 		@media screen and (max-width: 736px) {
@@ -1532,8 +1533,7 @@
 		}
 
 	h3 {
-		font-size: 1.15em;
-		font-weight: bold;
+		font-size: 1.1em;
 	}
 
 	h4 {
